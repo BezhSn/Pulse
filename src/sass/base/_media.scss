@@ -1,0 +1,13 @@
+@media(max-width: 991px) {
+    .header {
+        padding: 0 30px;
+    }
+    .promo {
+        &__wrapper {
+            padding: 0 30px;
+        }
+        &__header {
+            font-size: 36px;
+        }
+    }
+}
